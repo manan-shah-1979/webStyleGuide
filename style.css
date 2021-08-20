@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Nunito Sans', serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Poppins', serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+header {
+    margin: 20px auto;
+    width: 80%;
+}
+
+
+.section {
+    border: 2px solid grey;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.section-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 10px 20px;
+}
+
+.card {
+    width: 90%;
+    margin: 10px 10px;
+}
+
+.color {
+    width: 33%;
+    display: inline-block;
+    margin: 20px auto;
+}
+
+.color p {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.green {
+    background-color: #4fe0b0;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.font {
+    display: inline-block;
+    width: 45%;
+}
+
+.title {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.sc-pro {
+    font-family: 'Source Code Pro', serif;
+}
+
+.nunito {
+    font-family: 'Nunito', serif;
+}
+
+.poppins {
+    font-family: 'Poppins', serif;
+}
+
+.reg {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+li {
+    font-family: 'Poppins', serif;
+    font-size: 14px;
+}
